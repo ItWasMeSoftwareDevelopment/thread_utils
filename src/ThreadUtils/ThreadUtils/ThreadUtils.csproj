@@ -1,7 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;net46</TargetFrameworks>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>ItWasMe.ThreadUtils</AssemblyName>
     <RootNamespace>ItWasMe.ThreadUtils</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
@@ -9,5 +9,5 @@
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <FileVersion>1.0.1.0</FileVersion>
   </PropertyGroup>
-
+ 
 </Project>
